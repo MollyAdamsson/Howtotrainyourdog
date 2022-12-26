@@ -9,4 +9,18 @@
 body {
     font-family: Poppins, sans-serif;
     font-weight: 200;
+    color: #2f4f4f;
+}
+
+h1, h2 {
+    font-family: Roboto-slab, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #000036;
+
+}
+
+#logo {
+    text-align: center;
+    font-size: 250%;
 }
