@@ -15,7 +15,7 @@ body {
 h1, h2 {
     font-family: Roboto-slab, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     color: #000036;
 
 }
@@ -122,16 +122,50 @@ h1, h2 {
 }
 
 #center-side {
+    padding-top: 30px;
     width: 33%;
     margin: 0 auto;
 }
 
+hr {
+    border-top:2px solid #333333;
+    width: 100%;
+    margin: 4px;
+}
+
 .left-side-heading {
-    width: 40%;
+    font-size: 80%;
+    width: 80%;
     line-height: 20px;
     margin-bottom: 10px;
-    clear: both;
-    float: right;
-    padding-left: 1%;
+    padding-left: 8%;
+}
+
+.right-side-heading {
+   font-size: 80%;
+   width: 80%;
+   line-height: 20px;
+   margin-bottom: 10px;
+   padding-right: 4%;
+}
+
+.left-side-heading h2 {
+    text-align: center;
+}
+
+.right-side-heading h2 {
+    text-align: center;
+}
+
+.center-side-heading h2 {
+    text-align: center;
+}
+
+.center-side-heading {
+    font-size: 80%;
+    width: 80%;
+    line-height: 20px;
+    margin-bottom: 10px;
+
 }
 
