@@ -63,7 +63,7 @@ h1, h2 {
     border-radius: 70px;
 
     animation-name: image-backwards;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-fill-mode: both;
     position: relative;
 
@@ -102,7 +102,6 @@ h1, h2 {
     right: 500px;
     
     position: absolute;
-
 }
 
 #main-info {
@@ -113,18 +112,21 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
+    padding-bottom: 1%;
 }
 
 #right-side {
     padding-top: 30px;
     width: 33%;
     float: right;
+    padding-bottom: 1%;
 }
 
 #center-side {
     padding-top: 30px;
     width: 33%;
     margin: 0 auto;
+    padding-bottom: 1%;
 }
 
 hr {
@@ -174,20 +176,21 @@ hr {
     font-size: 230%;
 }
 
-#lower-text-cover {
-    font-family: Roboto-slab, sans-serif;
-    text-transform: capitalize;
-    letter-spacing: 2px;
+footer {
+    height: 350px;
 
-    width: 250px;
-    height: 120px;
-
-    padding-top: 2%;
-    padding-left: 80%;
-
-    background-color: rgb(134 ,126 ,54 , .5);
-    border-radius: 20%;
-
-    padding-bottom: 2%;
-    display:block;
 }
+.social-networks {
+    text-align: center;
+
+}
+.social-networks > li {
+    display: inline;
+}
+.social-networks i {
+    font-size: 200%;
+    margin: 3%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
