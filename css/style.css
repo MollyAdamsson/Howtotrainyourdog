@@ -57,6 +57,25 @@ h1, h2 {
 
 #main-image {
     height: 500px;
-    width: 100px;
-    background: url(../images/border-collie-and-black-dog.jpg);
+    width: 100%;
+    background: url(../images/border-collie-and-black-dog.jpg) no-repeat;
+    border-radius: 70px;
+    filter:drop-shadow(2px);
+    -webkit-filter:drop-shadow(2px);
+
+    animation-name: image-crunch;
+    animation-duration: 3s;
+    animation-fill-mode: both;
+}
+
+
+
+
+@keyframes image-crunch {
+    from {
+        transform: scale(1.2);
+    }
+    to {
+        transform:scale(1)
+    }
 }
