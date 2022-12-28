@@ -59,7 +59,6 @@ h1, h2 {
     height: 480px;
     width: 100%;
     background: url(../images/bathing-dogs.jpg) no-repeat;
-    border-radius: 30px;
 
     animation-name: image-backwards;
     animation-duration: 2s;
@@ -88,6 +87,7 @@ h1, h2 {
     letter-spacing: 3px;
 
     background-color: rgba( 85, 107, 47, .6 );
+    padding-top: 3px;
 
     display: flex;
     flex-direction: column;
@@ -96,63 +96,30 @@ h1, h2 {
     position: relative;
 }
 
-#main-info {
-    height: 480px;
+
+.main-info {
+    padding: 5vh 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+  flex-direction: column;
+
 }
 
-#left-side {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
+@media (min-width: 40rem) {
+    .main-info {
+      flex-direction: row;
+    }
 }
 
-#right-side {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-    padding-bottom: 1%;
-}
-
-#center-side {
-    padding-top: 30px;
-    width: 33%;
-    margin: 0 auto;
-    padding-bottom: 1%;
+.info-boxes {
+    flex-basis: 30%;
 }
 
 hr {
     border-top:2px solid #333333;
     width: 100%;
     margin: 4px;
-}
-
-.left-side-heading {
-    font-size: 80%;
-    width: 80%;
-    padding-left: 4%;
-}
-
-.right-side-heading {
-   font-size: 80%;
-   width: 80%;
-   padding-right: 4%;
-}
-
-.left-side-heading h2 {
-    text-align: center;
-}
-
-.right-side-heading h2 {
-    text-align: center;
-}
-
-.center-side-heading h2 {
-    text-align: center;
-}
-
-.center-side-heading {
-    font-size: 80%;
-    width: 80%;
 }
 
 #entry {
@@ -162,14 +129,12 @@ hr {
 }
 
 .image-container {
-
     display: flex;
     align-items: center;
 }
 
 .image.container img {
-    
-
+   
 }
 
 footer {
@@ -178,8 +143,8 @@ footer {
 
 .social-networks {
     text-align: center;
-
 }
+
 .social-networks > li {
     display: inline-block;
 }
