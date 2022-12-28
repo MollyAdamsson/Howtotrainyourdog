@@ -166,6 +166,7 @@ footer {
 	background-color: #728c8c
 }
 
+
 .au-container{
 	width: 80%;
 	display: block;
@@ -175,12 +176,13 @@ footer {
 
 .au-content-section{
 	float: left;
-	width: 55%;
+	width: 60%;
 }
 
 .au-image-section{
 	float: right;
 	width: 40%;
+    border: 2px solid #000;
 }
 
 .au-container img{
@@ -193,3 +195,88 @@ footer {
 	height: auto;
 }
 
+.au-content-section .title{
+	text-transform: uppercase;
+	font-size: 28px;
+}
+
+.au-content-section .au-content h3{
+	margin-top: 20px;
+	color:#5d5d5d;
+	font-size: 21px;
+}
+
+.au-content-section .au-content p{
+	margin-top: 10px;
+	font-family: sans-serif;
+	font-size: 13px;
+	line-height: 1.5;
+}
+
+.au-content-section .au-content .button{
+	margin-top: 30px;
+}
+
+.au-content-section .au-content .button a{
+	background-color: #3d3d3d;
+	padding:12px 40px;
+	text-decoration: none;
+	color:#fff;
+	font-size: 25px;
+	letter-spacing: 1.5px;
+}
+
+.au-content-section .au-content .button a:hover{
+	background-color: #a52a2a;
+	color:#fff;
+}
+
+@media screen and (max-width: 768px) 
+
+	.au-container {
+	width: 80%;
+	display: block;
+	margin: auto;
+	padding-top: 50px; 
+    }
+
+.au-content-section {
+	float:none;
+	width:100%;
+	display: block;
+	margin:auto;
+}
+.au-image-section {
+	float:none;
+	width:100%;
+	
+}
+.au-image-section img {
+	width: 100%;
+	height: auto;
+	display: block;
+	margin:auto;
+}
+.au-content-section .title {
+	text-align: center;
+	font-size: 19px;
+}
+.au-content-section .au-content .button {
+	text-align: center;
+}
+.au-content-section .au-content .button a {
+	padding: 9px 30px;
+}
+
+/* gallery */
+
+#dog-photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+
+#dog-photos > img {
+    width: 100%;
+}
