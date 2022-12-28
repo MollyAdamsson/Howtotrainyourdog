@@ -59,19 +59,18 @@ h1, h2 {
     height: 480px;
     width: 100%;
     background: url(../images/bathing-dogs.jpg) no-repeat;
-
     animation-name: image-backwards;
     animation-duration: 2s;
     animation-fill-mode: both;
     position: relative;
-    
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-size: cover;
 }
 
 #cover-text, #cover-text h2 {
-    color: #fff
+    color: #fff;
+    padding-top: 3px;;
 
 }
 
@@ -87,7 +86,7 @@ h1, h2 {
 #cover-text {
     font-size: 120%;
     font-family: Roboto-slab, sans-serif;
-    text-transform:capitalize;
+    text-transform: initial;
     letter-spacing: 3px;
 
     background-color: rgba( 85, 107, 47, .6 );
@@ -160,3 +159,37 @@ footer {
     color: #3a3a3a;
     padding-left: 45px;
 }
+
+.au-section{
+	width: 100%;
+	min-height: 100vh;
+	background-color: #728c8c
+}
+
+.au-container{
+	width: 80%;
+	display: block;
+	margin: auto;
+	padding-top: 100px;
+}
+
+.au-content-section{
+	float: left;
+	width: 55%;
+}
+
+.au-image-section{
+	float: right;
+	width: 40%;
+}
+
+.au-container img{
+	width: 100%;
+	height: auto;
+}
+
+.au-image-section img{
+	width: 100%;
+	height: auto;
+}
+
