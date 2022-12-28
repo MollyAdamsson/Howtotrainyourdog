@@ -74,14 +74,6 @@ h1, h2 {
 
 }
 
-@keyframes image-backwards {
-    from {
-        transform: scale(1.2);
-    }
-    to {
-        transform:scale(1)
-    }
-}
 
 #cover-text {
     font-size: 120%;
@@ -293,5 +285,18 @@ footer {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+
+    #cover-text {
+        left: 0;
+    }
+
+    #cover-text, .cover-text h3  {
+        width: 100%;
+        text-align: center;
+    }
+
+    #main-image {
+        width: 100%;
     }
 }
