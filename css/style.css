@@ -64,6 +64,10 @@ h1, h2 {
     animation-duration: 2s;
     animation-fill-mode: both;
     position: relative;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 #cover-text, #cover-text h2 {
