@@ -61,8 +61,6 @@ h1, h2 {
     background: url(../images/bathing-dogs.jpg) no-repeat;
     animation-name: image-backwards;
     animation-duration: 2s;
-    animation-fill-mode: both;
-    position: relative;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -349,4 +347,71 @@ footer {
         width: 100%;
         align-items: center;
     }
+}
+
+@media screen and (max-width: 950px) {
+    #menu {
+        width: 100%;
+        text-align: center;
+    }
+
+    #logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    #cover-text {
+        left: 0;
+    }
+
+    #cover-text, .cover-text h3  {
+        width: 100%;
+        text-align: center;
+    }
+
+    #main-image {
+        float: left;
+     max-width: 100%;
+    }
+
+    .social-networks {
+    
+    width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 350px) {
+    #menu {
+        width: 100%;
+        text-align: center;
+    }
+
+    #logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    #cover-text {
+        left: 0;
+    }
+
+    #cover-text, .cover-text h3  {
+        width: 100%;
+        text-align: center;
+    }
+
+    #main-image {
+       max-width: 100%;
+       display: flex;
+
+    }
+    .social-networks  i {
+       margin: 2px;
+       font-size: 1rem;
+       width: 100%;
+       padding: 0px;
+       
+    }
+
 }
