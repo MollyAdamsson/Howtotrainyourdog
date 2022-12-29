@@ -270,9 +270,9 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("../images/flatcoat-dog.jpg");
+    background: url("../images/dalmatians-3210166_1280.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: fixed;
     height: 900px;
 }
 
@@ -394,8 +394,7 @@ footer {
     }
 
     #main-image {
-        float: left;
-     max-width: 100%;
+        background-size:auto;
     }
 
     .social-networks  i {
@@ -404,6 +403,14 @@ footer {
         width: 100%;
         padding: 0px;
      }
+
+
+    #dog-photos {
+        clear: both;
+        line-height: 0;
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 @media screen and (max-width: 350px) {
     #menu {
