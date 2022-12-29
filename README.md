@@ -56,3 +56,44 @@ This project contains information and examples on how to best train your dog. It
 * It is also tested and confirmed that the heading, navigation, media links and text are readable and understandable.
 * It is easy to navigate between the sections, the media links work and opens a new tab and the form on the sig up page works. The form requires entries in every field to be able to click the 'Let's get started!' button.
 
+- insert image of the new tab here -
+
+# Deployment
+
+### **To deploy the project**
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+![GitHub pages deployed image] (url to image here)
+
+  The live link to the Github repository can be found here - https://github.com/MollyAdamsson/Portfolio-Project-1
+
+
+# Bugs
+* There has been som small issues along the way, when the code did not behave the way it was expected to and such. When that occured, the main focus was to check it via the W3C Markup Validation Service, link to the site can be found here - https://validator.w3.org/
+* The problem that occured had to do with the the three boxes with inofmration that did not line up the way it should. The boxes were uneven. 
+* The code was run thorugh the validator, it marked were the problem were and it was then corrected.
+
+## Validator testing
+ #### HTML:
+ * No errors showed up when it passed thorugh the validator
+ #### CSS
+ * No errors showed up when it passed thorugh the validator
+ #### Access
+ * The fonts and color scheme matched nicely and were accessible when passed thorugh lighthouse in devtools side bar.
+
+ - image of lighthouse goes here -
+
+ # Technologies Used
+* [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
+* [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
+* [Github](https://github.com/) - used to host and edit the website.
+
+
+
+
+
