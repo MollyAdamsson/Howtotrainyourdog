@@ -2,8 +2,7 @@
 
 This project contains information and examples on how to best train your dog. It is vital for a strong connection between owner and dog, it provides mental stimulation and strengthens the bond. This project will provide tips and tricks to make your dog as happy as it can be. This website is not only for beginners, but also for those who want to improve their skills.
 
-- Picture of the different devices goes here -
-
+![Responsive design](images/devices.png)
 # Features
 
 ## Navigation
@@ -16,6 +15,9 @@ This project contains information and examples on how to best train your dog. It
 * What follows is three images of dogs in a horizontal row 
 * Lastly you will find links to different social media
 
+![Image of main page](images/mainpage1.png)
+![Image of main page](images/mainpage2.png)
+
 * ### About us
 * Here you will find the same heading and navigation links
 * This time it is followed by h2 heading which explain the 'About us' section.
@@ -24,14 +26,15 @@ This project contains information and examples on how to best train your dog. It
 * Beaneath that there is an image of three people playing with a dog
 * This page also ends with the same footer as the home page, this is where you find the different social media links.
 
-- picture of about us goes here -
+![About us image](images/AU1.png)
+![About us image](images/AU2.png)
 
 * ### Gallery
 * Here you find the same heading as before and the same navigation links which direct you to the different sections of the website.
 * It is followed by several images of different dogs in different situations. 
 * Lastly the page ends with the links to social media
 
-- picture of gallery goes here -
+![Gallery image](images/gallery.png)
 
 * ### Sign up
 * The start of this ppage provides the same information as the ones before with the same heading and navigation links.
@@ -39,7 +42,13 @@ This project contains information and examples on how to best train your dog. It
 * To the left of the image there is a box with a sign up form inside of it.
 * The sign up form demands your full name and email adress and the user can choose which kind of training they would like.
 * There is also a button to click when the user feels ready to provide their information to the site.
-* Lastly the page ends with the links to the different social media links.
+
+![Sign up image](images/signup.png)
+
+* ### Footer
+* Lastly the page ends with the navigation to the different social media links.
+
+![Footer image](images/footer.png)
 
 ## Design and layout
 

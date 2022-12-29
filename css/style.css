@@ -272,7 +272,6 @@ footer {
     clear: left;
     background: url("../images/dalmatians-3210166_1280.jpg");
     background-size: cover;
-    background-position: fixed;
     height: 900px;
 }
 
@@ -386,6 +385,7 @@ footer {
 
     #cover-text {
         left: 0;
+        position: relative;
     }
 
     #cover-text, .cover-text h3  {
@@ -415,7 +415,6 @@ footer {
 
     .main-info {
         line-height: 100%;
-        margin:
     }
 
     .info-boxes {
