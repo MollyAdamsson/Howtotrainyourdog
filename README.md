@@ -2,7 +2,7 @@
 
 This project contains information and examples on how to best train your dog. It is vital for a strong connection between owner and dog, it provides mental stimulation and strengthens the bond. This project will provide tips and tricks to make your dog as happy as it can be. This website is not only for beginners, but also for those who want to improve their skills.
 
-![Responsive design](images/devices.png)
+![Responsive design](images/device2.png)
 # Features
 
 ## Navigation
@@ -26,7 +26,7 @@ This project contains information and examples on how to best train your dog. It
 * Beaneath that there is an image of three people playing with a dog
 * This page also ends with the same footer as the home page, this is where you find the different social media links.
 
-![About us image](images/AU1.png)
+![About us image](images/AU1.pngg)
 ![About us image](images/AU2.png)
 
 * ### Gallery
