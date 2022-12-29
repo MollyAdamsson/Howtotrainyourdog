@@ -323,6 +323,11 @@ footer {
     color: #4d6724;
 }
 
+#fd-text {
+    padding: 10% 20% 10% 20%;
+    font-weight: lighter;
+}
+
 @media screen and (max-width: 1200px) {
     #menu {
         width: 100%;
@@ -372,11 +377,6 @@ footer {
     #main-image {
         float: left;
      max-width: 100%;
-    }
-
-    .social-networks {
-    
-    width: 100%;
     }
 
 }
