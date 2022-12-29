@@ -79,9 +79,9 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 ## Validator testing
  #### HTML:
- * No errors showed up when it passed thorugh the validator
+ * No errors showed up when it passed through the validator
  #### CSS
- * No errors showed up when it passed thorugh the validator
+ * No errors showed up when it passed through the validator
  #### Access
  * The fonts and color scheme matched nicely and were accessible when passed thorugh lighthouse in devtools side bar.
 
@@ -93,7 +93,25 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 * [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
 * [Github](https://github.com/) - used to host and edit the website.
 
+# Credits
+
+* The font came from [Google Fonts](https://fonts.google.com/).
+* The colour palate was compiled by images and schemes in [Colormind](http://colormind.io/).
+* The icons came from [Font Awesome](https://fontawesome.com/).
+* The inspiration for the Project page sliders came from this repository on [GitHub] ()
+
+### Media
+* All images are taken from [Pixabay] https://pixabay.com/
+
+###
+* Some of the code were inspired by the CI Love Running project (https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/02-boilerplate)
 
 
+# Acknowledgements
 
+This website is was the main first project for the Portfolio 1 Project for the Full Stack Software Developer Diploma at Code Institute [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guiding me and help me with questions and worries. I would also like to tak ethiis oppertunity to thank the Tutor center at [Code Institute](https://codeinstitute.net/) for being patient and helpful when I have asked for help. 
+
+*How to train your dog* is only a made up website based on my own interests. The passion for dogs exists, but not on a professional level.
+
+[Molly Adamsson](https://www.linkedin.com/in/molly-adamsson-35041b231/) 2022
 
