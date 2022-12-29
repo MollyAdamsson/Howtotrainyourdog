@@ -101,15 +101,17 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 * The inspiration for the Project page sliders came from this repository on [GitHub] ()
 
 ### Media
+
 * All images are taken from [Pixabay] https://pixabay.com/
 
-###
+### Content
+
 * Some of the code were inspired by the CI Love Running project (https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/02-boilerplate)
 
 
 # Acknowledgements
 
-This website is was the main first project for the Portfolio 1 Project for the Full Stack Software Developer Diploma at Code Institute [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guiding me and help me with questions and worries. I would also like to tak ethiis oppertunity to thank the Tutor center at [Code Institute](https://codeinstitute.net/) for being patient and helpful when I have asked for help. 
+This website is was the main first project for the Portfolio 1 Project for the Full Stack Software Developer Diploma at Code Institute [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guiding me and help me with questions and worries. I would also like to take this oppertunity to thank the Tutor center at [Code Institute](https://codeinstitute.net/) for being patient and helpful when I have asked for help. 
 
 *How to train your dog* is only a made up website based on my own interests. The passion for dogs exists, but not on a professional level.
 
