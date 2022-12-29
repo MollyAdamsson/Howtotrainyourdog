@@ -394,7 +394,7 @@ footer {
     }
 
     #main-image {
-        background-size:auto;
+        background-size: auto;
     }
 
     .social-networks  i {
@@ -412,7 +412,7 @@ footer {
         column-gap: 0;
     }
 }
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 340px) {
     #menu {
     margin: 2px;
     font-size: 1rem;
@@ -444,5 +444,9 @@ footer {
     font-size: 1rem;
     width: 100%;
     padding: 0px;
+    }
+
+    .form-section {
+        
     }
 }
