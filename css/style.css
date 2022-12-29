@@ -325,22 +325,15 @@ footer {
     color: #4d6724;
 }
 
-@media screen and (max-width: 950px;) {
+@media screen and (max-width: 1200px) {
     #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    
+        width: 100%;
+        text-align: center;
     }
 
     #logo {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
+        width: 100%;
+        text-align: center;
     }
 
     #cover-text {
@@ -354,5 +347,6 @@ footer {
 
     #main-image {
         width: 100%;
+        align-items: center;
     }
 }
