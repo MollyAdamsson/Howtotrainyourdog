@@ -15,8 +15,8 @@ This project contains information and examples on how to best train your dog. It
 * What follows is three images of dogs in a horizontal row 
 * Lastly you will find links to different social media
 
-![Image of main page](images/mainpage1.png)
-![Image of main page](images/mainpage2.png)
+![Image of main page](images/main-page.png)
+![Image of main page](images/main-page-2.png)
 
 * ### About us
 * Here you will find the same heading and navigation links
@@ -26,7 +26,7 @@ This project contains information and examples on how to best train your dog. It
 * Beaneath that there is an image of three people playing with a dog
 * This page also ends with the same footer as the home page, this is where you find the different social media links.
 
-![About us image](images/AU1.pngg)
+![About us image](images/AU1.png)
 ![About us image](images/AU2.png)
 
 * ### Gallery
@@ -107,11 +107,10 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 * The font came from [Google Fonts](https://fonts.google.com/).
 * The colour palate was compiled by images and schemes in [Colormind](http://colormind.io/).
 * The icons came from [Font Awesome](https://fontawesome.com/).
-* The inspiration for the Project page sliders came from this repository on [GitHub] ()
 
 ### Media
 
-* All images are taken from [Pixabay] https://pixabay.com/
+* All images are taken from [Pixabay](https://pixabay.com/)
 
 ### Content
 
