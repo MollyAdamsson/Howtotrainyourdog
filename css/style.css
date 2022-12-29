@@ -103,7 +103,7 @@ h1, h2 {
     text-align: center;
     display: flex;
     justify-content: space-around;
-  flex-direction: column;
+    flex-direction: column;
 
 }
 
@@ -371,13 +371,13 @@ footer {
     }
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 600px) {
     #menu {
-    margin: 2px;
-    font-size: 1rem;
-    width: 100%;
-    padding: 0px;
-    }
+        margin: 18px;
+        font-size: 1rem;
+        width: 100%;
+        padding: 0px;
+     }
 
     #logo {
         width: 100%;
@@ -395,6 +395,7 @@ footer {
 
     #main-image {
         background-size: auto;
+        padding-bottom: 0%;
     }
 
     .social-networks  i {
@@ -410,14 +411,19 @@ footer {
         line-height: 0;
         column-count: 2;
         column-gap: 0;
-    }
 }
-@media screen and (max-width: 340px) {
-    #menu {
-    margin: 2px;
-    font-size: 1rem;
-    width: 100%;
-    padding: 0px;
+
+    .main-info {
+        line-height: 100%;
+        margin:
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+  
+    #menu li {
+        float: left;
     }
 
     #logo {
@@ -434,8 +440,7 @@ footer {
     text-align: center;
     }
 
-    #main-image {
-    max-width: 100%;    
+    #main-image {    
     display: none;
     }
 
@@ -444,9 +449,5 @@ footer {
     font-size: 1rem;
     width: 100%;
     padding: 0px;
-    }
-
-    .form-section {
-        
     }
 }
