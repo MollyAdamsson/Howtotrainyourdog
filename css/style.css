@@ -5,12 +5,15 @@
     padding: 0;
     border: none;
 }
+/* body */
 
 body {
     font-family: Poppins, sans-serif;
     font-weight: 200;
     color: #2f4f4f;
 }
+
+/* headers */
 
 h1, h2 {
     font-family: Roboto-slab, sans-serif;
@@ -19,6 +22,8 @@ h1, h2 {
     color: #000036;
 
 }
+
+/* logo and menu */
 
 #logo {
     text-align: center;
@@ -55,6 +60,9 @@ h1, h2 {
     border-bottom: 2px solid #333333;
 }
 
+
+/* main image and cover-text */
+
 #main-image {
     height: 480px;
     width: 100%;
@@ -72,7 +80,6 @@ h1, h2 {
 
 }
 
-
 #cover-text {
     font-size: 120%;
     font-family: Roboto-slab, sans-serif;
@@ -89,6 +96,7 @@ h1, h2 {
     position: relative;
 }
 
+/* main info */
 
 .main-info {
     padding: 5vh 0;
@@ -97,12 +105,6 @@ h1, h2 {
     justify-content: space-around;
   flex-direction: column;
 
-}
-
-@media (min-width: 40rem) {
-    .main-info {
-      flex-direction: row;
-    }
 }
 
 .info-boxes {
@@ -115,25 +117,21 @@ hr {
     margin: 4px;
 }
 
+.image-container {
+    display: flex;
+    align-items: center;
+}
+
 #entry {
     text-align: center;
     padding-top: 50px;
     font-size: 230%;
 }
 
-.image-container {
-    display: flex;
-    align-items: center;
-}
-
-.image.container img {
-   
-}
-
 /* social media */
 
 footer {
-    height: 350px;
+    height: 80px;
 }
 
 .social-networks {
@@ -195,9 +193,9 @@ footer {
 	font-size: 28px;
 }
 
-.au-content-section .au-content h3{
+.au-content-section, .au-content h3{
 	margin-top: 23px;
-	color:#5d5d5d;
+	color:#ffffff;
 	font-size: 22px;
 }
 
@@ -223,7 +221,7 @@ footer {
 
 .au-content-section .au-content .button a:hover{
 	background-color: #a52a2a;
-	color:rgb(158, 151, 151);
+	color:rgb(249, 244, 244);
 }
 
 .au-content-section {
@@ -314,31 +312,42 @@ footer {
     text-align: center;
     font-size: 100%;
     background-color: #0e2958;
-    color: #cac5c5;
+    color: #faf9f9;
     display: block;
 }
 
 .lgs-button:hover {
-    background-color: #b5b1b1;
+    background-color: #6f6e6e;
     color: #4d6724;
 }
+/* form destination */
 
 #fd-text {
     padding: 10% 20% 10% 20%;
     font-weight: lighter;
     background-color: #728c8c;
+    color: #fff;
     font-family: sans-serif;
 	font-size: 13px;
 	line-height: 1.5;
     text-transform:none;
-
-
 }
+
+/* media query */
+
+@media (min-width: 40rem) {
+    .main-info {
+      flex-direction: row;
+    }
+}
+
 
 @media screen and (max-width: 1200px) {
     #menu {
-        width: 100%;
-        text-align: center;
+    margin: 2px;
+    font-size: 1rem;
+    width: 100%;
+    padding: 0px;
     }
 
     #logo {
@@ -363,8 +372,10 @@ footer {
 
 @media screen and (max-width: 950px) {
     #menu {
-        width: 100%;
-        text-align: center;
+    margin: 2px;
+    font-size: 1rem;
+    width: 100%;
+    padding: 0px;
     }
 
     #logo {
@@ -386,38 +397,46 @@ footer {
      max-width: 100%;
     }
 
+    .social-networks  i {
+        margin: 18px;
+        font-size: 1rem;
+        width: 100%;
+        padding: 0px;
+     }
 }
 
 @media screen and (max-width: 350px) {
     #menu {
-        width: 100%;
-        text-align: center;
+    margin: 2px;
+    font-size: 1rem;
+    width: 100%;
+    padding: 0px;
     }
 
     #logo {
-        width: 100%;
-        text-align: center;
+    width: 100%;
+    text-align: center;
     }
 
     #cover-text {
-        left: 0;
+    left: 0;
     }
 
     #cover-text, .cover-text h3  {
-        width: 100%;
-        text-align: center;
+    width: 100%;
+    text-align: center;
     }
 
     #main-image {
-       max-width: 100%;
-       display: flex;
+    max-width: 100%;
+    display: none;
 
     }
     .social-networks  i {
-       margin: 2px;
-       font-size: 1rem;
-       width: 100%;
-       padding: 0px;
+    margin: 18px;
+    font-size: 1rem;
+    width: 100%;
+    padding: 0px;
        
     }
 
