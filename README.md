@@ -50,7 +50,7 @@ This project contains information and examples on how to best train your dog. It
 
 ![Footer image](images/footer.png)
 
-## Design and layout
+# Design and layout
 
 * ### Font
 * The lettering style chosen for the sites headings is 'Roboto slab' and 'Poppins for the body text. Both of them have a fall back of sans-serif.
@@ -58,7 +58,7 @@ This project contains information and examples on how to best train your dog. It
 * 'Poppins' was applied to give a soft contrast to the heading.
 * The color scheme that is chosen was to give the feeling of nature and wild life. The blue and green matches very well together, and most certainly they match with the nature pictures of the dogs.
 
-## Testing
+# Testing
 
 * The page is tested in different browsers, such as: Chrome, Safari and Firefox
 * It is confirmed that the page works on all media devices through the devtools device side bar.
@@ -67,7 +67,7 @@ This project contains information and examples on how to best train your dog. It
 
 - insert image of the new tab here -
 
-# Deployment
+## Deployment
 
 ### **To deploy the project**
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
@@ -81,7 +81,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
   The live link to the Github repository can be found here - https://github.com/MollyAdamsson/Portfolio-Project-1
 
 
-# Bugs
+## Bugs
 * There has been som small issues along the way, when the code did not behave the way it was expected to and such. When that occured, the main focus was to check it via the W3C Markup Validation Service, link to the site can be found here - https://validator.w3.org/
 * The problem that occured had to do with the the three boxes with inofmration that did not line up the way it should. The boxes were uneven. 
 * The code was run thorugh the validator, it marked were the problem were and it was then corrected.
@@ -96,7 +96,8 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
  - image of lighthouse goes here -
 
- # Technologies Used
+
+# Technologies Used
 * [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
 * [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
@@ -117,11 +118,10 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 * Some of the code were inspired by the CI Love Running project (https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/02-boilerplate)
 
 
-# Acknowledgements
+### Acknowledgements
 
 This website is was the main first project for the Portfolio 1 Project for the Full Stack Software Developer Diploma at Code Institute [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guiding me and help me with questions and worries. I would also like to take this oppertunity to thank the Tutor center at [Code Institute](https://codeinstitute.net/) for being patient and helpful when I have asked for help. 
 
 *How to train your dog* is only a made up website based on my own interests. The passion for dogs exists, but not on a professional level.
 
 [Molly Adamsson](https://www.linkedin.com/in/molly-adamsson-35041b231/) 2022
-
