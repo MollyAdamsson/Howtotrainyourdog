@@ -82,9 +82,10 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 # Testing
 
 * The page is tested in different browsers, such as: Chrome, Safari and Firefox
-* It is confirmed that the page works on all media devices through the devtools device side bar.
+* It is easy to navigate between the sections, the media links work and opens a new tab and the form on the sign up page works.
 * It is also tested and confirmed that the heading, navigation, media links and text are readable and understandable.
-* It is easy to navigate between the sections, the media links work and opens a new tab and the form on the sig up page works. The form requires entries in every field to be able to click the 'Let's get started!' button.
+* It is confirmed that the page works on all media devices through the devtools device side bar.
+* Different layouts for the the different media devices was tested, this was made to make sure that it looked good and that the user easily could navigate and understand. This led to the decision to remove the hero image from the smartphone device, mostly to make it look more clean and to minimize the risk of making the image look too cramped up.
 
 ### Bugs
 * There has been som small issues along the way, when the code did not behave the way it was expected to and such. When that occured, the main focus was to check it via the W3C Markup Validation Service, link to the site can be found here - https://validator.w3.org/
