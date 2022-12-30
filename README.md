@@ -116,8 +116,10 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
  #### HTML:
  * No errors showed up when it passed through the validator
+ ![Html no error](images/error.png)
  #### CSS
  * No errors showed up when it passed through the validator
+ ![CSS no error](images/error.png)
  #### Access
  * The fonts and color scheme matched nicely and were accessible when passed through 'Lighthouse' in devtools side bar.
 
