@@ -96,7 +96,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 ![GitHub pages deployed image](images/deploy.png)
 
-  The live link to the Github repository can be found here - https://github.com/MollyAdamsson/Portfolio-Project-1
+  The live link to the Github repository can be found here - https://github.com/MollyAdamsson/Howtotrainyourdog
 
 # Testing
 
