@@ -22,7 +22,7 @@ This project contains information and examples on how to best train your dog. It
 
 * In the heading at the top of the page you will find the name of the website
 * Beneath that one can see the navigation links which provide different sections to the same website. They are as following: Home, About us, Gallery and Sign up.
-* The page continues with an image of two dogs swimming and an encouraging message nested underneath
+* The page continues with an image of a person holding a Husky, the Husky is looking up att the sky. At the top of the image there is an encouraging text, and it looks like the Husky is looking at it.
 * Beneath the main image there are three sections of text which include why it is important to train your dog, how you can connect to each other and what your dog can gain from it.
 * What follows is three images of dogs in a horizontal row 
 * Lastly you will find links to different social media
@@ -52,8 +52,8 @@ This project contains information and examples on how to best train your dog. It
 
 * ### Sign up
 
-* The start of this ppage provides the same information as the ones before with the same heading and navigation links.
-* This page contains an image of a black dog with a toy in its mouth.
+* The start of this page provides the same information as the ones before with the same heading and navigation links.
+* This page contains an image of a Dalmatian dog that is leaning against a fence.
 * To the left of the image there is a box with a sign up form inside of it.
 * The sign up form demands your full name and email adress and the user can choose which kind of training they would like.
 * There is also a button to click when the user feels ready to provide their information to the site.
@@ -63,7 +63,7 @@ This project contains information and examples on how to best train your dog. It
 
 * ### Destination form
 
-* When a user Wants to sign up to the course nad they click the button which say 'Let's get started!', the user will be sent to a page which will thank them for joining.
+* When a user Wants to sign up to the course and they click the button which say 'Let's get started!', the user will be sent to a page which will thank them for joining.
 * The page will then provide the user with a button that will send them to the home page if they click on it.
 * A user can only reach this page if they sign up to the course
 
@@ -79,7 +79,7 @@ This project contains information and examples on how to best train your dog. It
 
 * ### Font
 
-* The lettering style chosen for the sites headings is 'Roboto slab' and 'Poppins for the body text. Both of them have a fall back of sans-serif.
+* The lettering style chosen for the sites headings is 'Roboto slab' and 'Poppins' for the body text. Both of them have a fall back of sans-serif.
 * 'Roboto slab' was chosen to give a forward and direct introduction to the site.
 * 'Poppins' was applied to give a soft contrast to the heading.
 * The color scheme and layout that is chosen was to give the feeling of nature and wild life. The blue and green matches very well together, and most certainly they match with the nature pictures of the dogs.
@@ -108,7 +108,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 ### Bugs
 
-* There has been som small issues along the way, when the code did not behave the way it was expected to and such. When that occured, the main focus was to check it via the W3C Markup Validation Service, link to the site can be found here - https://validator.w3.org/
+* There has been some small issues along the way, when the code did not behave the way it was expected to and such. When that occured, the main focus was to check it via the W3C Markup Validation Service, link to the site can be found here - https://validator.w3.org/
 * The problem that occured had to do with the the three boxes with inofmration that did not line up the way it should. The boxes were uneven. 
 * The code was run thorugh the validator, it marked were the problem were and it was then corrected.
 
@@ -119,7 +119,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
  #### CSS
  * No errors showed up when it passed through the validator
  #### Access
- * The fonts and color scheme matched nicely and were accessible when passed thorugh lighthouse in devtools side bar.
+ * The fonts and color scheme matched nicely and were accessible when passed through 'Lighthouse' in devtools side bar.
 
 ![Lighthouse](images/lighthouse.png)
 
@@ -148,7 +148,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 #### Acknowledgements
 
-This website is was the main first project for the Portfolio 1 Project for the Full Stack Software Developer Diploma at Code Institute [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guiding me and help me with questions and worries. I would also like to take this oppertunity to thank the Tutor center at [Code Institute](https://codeinstitute.net/) for being patient and helpful when I have asked for help. 
+This website is was the main project for the Portfolio 1 Project for the Full Stack Software Developer Diploma at Code Institute [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guiding me and help me with questions and worries. I would also like to take this oppertunity to thank the Tutor center at [Code Institute](https://codeinstitute.net/) for being patient and helpful when I have asked for help. 
 
 *How to train your dog* is only a made up website based on my own interests. The passion for dogs exists, but not on a professional level.
 
