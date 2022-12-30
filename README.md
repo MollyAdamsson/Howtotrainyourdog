@@ -71,7 +71,7 @@ This project contains information and examples on how to best train your dog. It
 
 * ### Footer
 
-* Lastly the page ends with the navigation to the different social media links.
+* Lastly the pages ends with the navigation to the different social media links.
 
 ![Footer image](images/footer.png)
 
