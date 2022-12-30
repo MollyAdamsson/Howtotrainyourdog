@@ -42,8 +42,16 @@ This project contains information and examples on how to best train your dog. It
 * To the left of the image there is a box with a sign up form inside of it.
 * The sign up form demands your full name and email adress and the user can choose which kind of training they would like.
 * There is also a button to click when the user feels ready to provide their information to the site.
+* The form requires entries in every field to be able to click the 'Let's get started!' button.
 
 ![Sign up image](images/signup.png)
+
+* ### Destination form
+* When a user Wants to sign up to the course nad they click the button which say 'Let's get started!', the user will be sent to a page which will thank them for joining.
+* The page will then provide the user with a button that will send them to the home page if they click on it.
+* A user can only reach this page if they sign up to the course
+
+![Destination form](images/formdestination.png)
 
 * ### Footer
 * Lastly the page ends with the navigation to the different social media links.
@@ -56,16 +64,7 @@ This project contains information and examples on how to best train your dog. It
 * The lettering style chosen for the sites headings is 'Roboto slab' and 'Poppins for the body text. Both of them have a fall back of sans-serif.
 * 'Roboto slab' was chosen to give a forward and direct introduction to the site.
 * 'Poppins' was applied to give a soft contrast to the heading.
-* The color scheme that is chosen was to give the feeling of nature and wild life. The blue and green matches very well together, and most certainly they match with the nature pictures of the dogs.
-
-# Testing
-
-* The page is tested in different browsers, such as: Chrome, Safari and Firefox
-* It is confirmed that the page works on all media devices through the devtools device side bar.
-* It is also tested and confirmed that the heading, navigation, media links and text are readable and understandable.
-* It is easy to navigate between the sections, the media links work and opens a new tab and the form on the sig up page works. The form requires entries in every field to be able to click the 'Let's get started!' button.
-
-- insert image of the new tab here -
+* The color scheme and layout that is chosen was to give the feeling of nature and wild life. The blue and green matches very well together, and most certainly they match with the nature pictures of the dogs.
 
 ## Deployment
 
@@ -80,13 +79,19 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
   The live link to the Github repository can be found here - https://github.com/MollyAdamsson/Portfolio-Project-1
 
+# Testing
 
-## Bugs
+* The page is tested in different browsers, such as: Chrome, Safari and Firefox
+* It is confirmed that the page works on all media devices through the devtools device side bar.
+* It is also tested and confirmed that the heading, navigation, media links and text are readable and understandable.
+* It is easy to navigate between the sections, the media links work and opens a new tab and the form on the sig up page works. The form requires entries in every field to be able to click the 'Let's get started!' button.
+
+### Bugs
 * There has been som small issues along the way, when the code did not behave the way it was expected to and such. When that occured, the main focus was to check it via the W3C Markup Validation Service, link to the site can be found here - https://validator.w3.org/
 * The problem that occured had to do with the the three boxes with inofmration that did not line up the way it should. The boxes were uneven. 
 * The code was run thorugh the validator, it marked were the problem were and it was then corrected.
 
-## Validator testing
+### Validator testing
  #### HTML:
  * No errors showed up when it passed through the validator
  #### CSS
