@@ -6,7 +6,7 @@ This project contains information and examples on how to best train your dog. It
 
 # User Experience (UX)
 
-## User Stories
+## User view
 
 * As a user I want to be able to navigate through the whole site smoothly.
 * As a user I want to understand the purpose of the site upon loading it.
