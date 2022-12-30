@@ -150,7 +150,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 #### Acknowledgements
 
-This website is was the main project for the Portfolio 1 Project for the Full Stack Software Developer Diploma at Code Institute [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guiding me and help me with questions and worries. I would also like to take this oppertunity to thank the Tutor center at [Code Institute](https://codeinstitute.net/) for being patient and helpful when I have asked for help. 
+This website is was the main project for the Portfolio 1 Project for the Full Stack Software Developer Diploma at [Code Institute](https://codeinstitute.net/). I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guiding me and for helping me with questions and worries. I would also like to take this oppertunity to thank the Tutor center at [Code Institute](https://codeinstitute.net/) for being patient and helpful when I have asked for help. 
 
 *How to train your dog* is only a made up website based on my own interests. The passion for dogs exists, but not on a professional level.
 
