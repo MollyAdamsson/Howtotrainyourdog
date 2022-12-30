@@ -3,11 +3,23 @@
 This project contains information and examples on how to best train your dog. It is vital for a strong connection between owner and dog, it provides mental stimulation and strengthens the bond. This project will provide tips and tricks to make your dog as happy as it can be. This website is not only for beginners, but also for those who want to improve their skills.
 
 ![Responsive design](images/device2.png)
-# Features
 
-## Navigation
+# User Experience (UX)
+
+## User Stories
+
+* As a user I want to be able to navigate through the whole site smoothly.
+* As a user I want to understand the purpose of the site upon loading it.
+* As a user I want to easily be able to sign up to the courses without any issues.
+* As a user I want to be able to understand what the trainers ambitions are.
+* As a user I want to see existing images of the training.
+* As a user i want to know about the business.
+* As a user i want to connect with 'How to train your dog' on social media.
+
+# Navigation
 
 * ### Home page 
+
 * In the heading at the top of the page you will find the name of the website
 * Beneath that one can see the navigation links which provide different sections to the same website. They are as following: Home, About us, Gallery and Sign up.
 * The page continues with an image of two dogs swimming and an encouraging message nested underneath
@@ -19,6 +31,7 @@ This project contains information and examples on how to best train your dog. It
 ![Image of main page](images/main-page-2.png)
 
 * ### About us
+
 * Here you will find the same heading and navigation links
 * This time it is followed by h2 heading which explain the 'About us' section.
 * The information text thoroughly explains the goal of the website and what the trainers aspires.
@@ -30,6 +43,7 @@ This project contains information and examples on how to best train your dog. It
 ![About us image](images/AU2.png)
 
 * ### Gallery
+
 * Here you find the same heading as before and the same navigation links which direct you to the different sections of the website.
 * It is followed by several images of different dogs in different situations. 
 * Lastly the page ends with the links to social media
@@ -37,6 +51,7 @@ This project contains information and examples on how to best train your dog. It
 ![Gallery image](images/gallery.png)
 
 * ### Sign up
+
 * The start of this ppage provides the same information as the ones before with the same heading and navigation links.
 * This page contains an image of a black dog with a toy in its mouth.
 * To the left of the image there is a box with a sign up form inside of it.
@@ -47,6 +62,7 @@ This project contains information and examples on how to best train your dog. It
 ![Sign up image](images/signup.png)
 
 * ### Destination form
+
 * When a user Wants to sign up to the course nad they click the button which say 'Let's get started!', the user will be sent to a page which will thank them for joining.
 * The page will then provide the user with a button that will send them to the home page if they click on it.
 * A user can only reach this page if they sign up to the course
@@ -54,6 +70,7 @@ This project contains information and examples on how to best train your dog. It
 ![Destination form](images/formdestination.png)
 
 * ### Footer
+
 * Lastly the page ends with the navigation to the different social media links.
 
 ![Footer image](images/footer.png)
@@ -61,6 +78,7 @@ This project contains information and examples on how to best train your dog. It
 # Design and layout
 
 * ### Font
+
 * The lettering style chosen for the sites headings is 'Roboto slab' and 'Poppins for the body text. Both of them have a fall back of sans-serif.
 * 'Roboto slab' was chosen to give a forward and direct introduction to the site.
 * 'Poppins' was applied to give a soft contrast to the heading.
@@ -69,11 +87,12 @@ This project contains information and examples on how to best train your dog. It
 ## Deployment
 
 ### **To deploy the project**
+
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
   1. In the GitHub repository, navigate to the **Settings** tab.
   2. Once in Settings, navigate to the **Pages** tab on the left hand side.
-  3. Under **Source**, select the branch to **master**, then click **save**.
-  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  3. Under **Source**, select the branch to **main**, then click **save**.
+  4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ![GitHub pages deployed image](images/deploy.png)
 
@@ -88,11 +107,13 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 * Different layouts for the the different media devices was tested, this was made to make sure that it looked good and that the user easily could navigate and understand. This led to the decision to remove the hero image from the smartphone device, mostly to make it look more clean and to minimize the risk of making the image look too cramped up.
 
 ### Bugs
+
 * There has been som small issues along the way, when the code did not behave the way it was expected to and such. When that occured, the main focus was to check it via the W3C Markup Validation Service, link to the site can be found here - https://validator.w3.org/
 * The problem that occured had to do with the the three boxes with inofmration that did not line up the way it should. The boxes were uneven. 
 * The code was run thorugh the validator, it marked were the problem were and it was then corrected.
 
 ### Validator testing
+
  #### HTML:
  * No errors showed up when it passed through the validator
  #### CSS
@@ -104,6 +125,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 
 # Technologies Used
+
 * [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
 * [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
