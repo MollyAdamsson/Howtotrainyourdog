@@ -100,7 +100,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
  #### Access
  * The fonts and color scheme matched nicely and were accessible when passed thorugh lighthouse in devtools side bar.
 
- - image of lighthouse goes here -
+![Lighthouse](images/lighthouse.png)
 
 
 # Technologies Used
