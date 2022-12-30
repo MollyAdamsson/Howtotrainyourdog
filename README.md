@@ -75,7 +75,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
   3. Under **Source**, select the branch to **master**, then click **save**.
   4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-![GitHub pages deployed image] (url to image here)
+![GitHub pages deployed image](images/deploy.png)
 
   The live link to the Github repository can be found here - https://github.com/MollyAdamsson/Portfolio-Project-1
 
